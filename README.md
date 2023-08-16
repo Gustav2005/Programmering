@@ -1,4 +1,4 @@
 # Programmering
 
 Velkommen
-Her ligger alle mine projekter i programmering
+Her ligger alle mine projekter i programmering.
