@@ -1,7 +1,3 @@
-print("Opgave 1")
-
-print("Hej med dig. Jeg elsker at kode")
-
 print("Opgave 2")
 
 r=input("skriv radius:")
@@ -17,8 +13,3 @@ O= pi*(r*2)
 
 print("Areal =",A)
 print("Omkreds =",O)
-
-print("Opgave 3")
-
-
-
