@@ -1,0 +1,2 @@
+print("Opgave 20")
+      
