@@ -1,8 +1,8 @@
 print("Opgave 20")
       
-#n=int(input("Skriv startantallet af stjerner: "))
+n=int(input("Skriv startantallet af stjerner: "))
 
-n = 10
+#n = 10
 
 for k in range(n):
     s=""
