@@ -1,5 +1,4 @@
 print("Opgave 21")
 
-f = open("Test.txt","r")
-for line in f:
-    print(line)
+f = open("Test.txt", "r")
+print(f.read)
